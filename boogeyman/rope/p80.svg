@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="100" viewBox="0 0 480 100">
+<defs><pattern id="tw" width="10" height="12" patternUnits="userSpaceOnUse" patternTransform="skewX(-28)">
+<rect width="10" height="12" fill="#604628"/><rect width="5" height="12" fill="#967044"/></pattern>
+<linearGradient id="ti" x1="0" x2="1"><stop offset="0" stop-color="#780a0a" stop-opacity=".85"/>
+<stop offset=".48" stop-color="#3c0000" stop-opacity=".2"/><stop offset=".52" stop-color="#dcaa3c" stop-opacity=".1"/>
+<stop offset="1" stop-color="#e6b446" stop-opacity=".5"/></linearGradient>
+<radialGradient id="kn" cx=".4" cy=".35"><stop offset="0" stop-color="#c89c62"/><stop offset=".75" stop-color="#5a3e22"/></radialGradient></defs>
+<rect width="480" height="100" rx="10" fill="#0e0b09"/>
+<rect x="5" y="5" width="470" height="90" rx="7" fill="none" stroke="#96764f" stroke-opacity=".55" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="240.0" y="29" text-anchor="middle" font-family="Georgia,serif" font-size="17" letter-spacing="4" fill="#c8b496">THE ROPE <tspan font-family="Consolas,monospace" font-weight="bold" font-size="21" letter-spacing="1" fill="#f0c66e">+80</tspan></text>
+<rect x="44" y="45" width="392" height="12" rx="6" fill="url(#tw)"/><rect x="44" y="45" width="392" height="12" rx="6" fill="url(#ti)"/>
+<rect x="141.0" y="41" width="2" height="20" fill="#1e1610"/><rect x="288.0" y="41" width="2" height="20" fill="#1e1610"/><rect x="337.0" y="41" width="2" height="20" fill="#1e1610"/><rect x="386.0" y="41" width="2" height="20" fill="#1e1610"/>
+<text x="13" y="59" font-size="22">💀</text>
+<ellipse cx="451" cy="51" rx="8" ry="10" fill="none" stroke="#967044" stroke-width="5"/>
+<circle cx="396.8" cy="51" r="12" fill="url(#kn)" stroke="#140e0a" stroke-width="2"/>
+<text x="16" y="86" font-family="Consolas,monospace" font-size="15" fill="#d24a3e">-100 SACK</text>
+<text x="464" y="86" text-anchor="end" font-family="Consolas,monospace" font-size="15" fill="#e8c072">YOURS +100</text>
+</svg>
